@@ -1,0 +1,60 @@
+body {
+    margin: 100px;
+}
+
+header {
+    align-items: center;
+    display: flex;
+    background-color: aliceblue;
+    margin-bottom: 50px;
+}
+
+#imagenperfil {
+    padding: 10px;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    border: solid 1px;
+    border-color: blueviolet;
+}
+
+.cell {
+    display: inline;
+    box-sizing: border-box;
+    padding: 50px;
+
+}
+
+.intro {
+    width: 100%;
+    height: 200px;
+    box-sizing: border-box;
+}
+
+.section-intro {
+    float: left;
+    width: 50%;
+}
+
+
+.division {
+    width: 100%;
+    height: 100px;
+    font-size: 0;
+    margin-bottom: 100px;
+}
+
+.columna1 {
+    padding-left: 10px;
+    width: 49%;
+    font-size: 14px;
+    float: left;
+
+}
+
+.columna2 {
+    padding-left: 10px;
+    width: 49%;
+    font-size: 14px;
+    float: left;
+}
